@@ -1,0 +1,5007 @@
+[
+    {
+      "level": 0,
+      "exp": 1,
+      "earnEp": 0
+    },
+    {
+      "level": 1,
+      "exp": 100,
+      "earnEp": 1
+    },
+    {
+      "level": 2,
+      "exp": 200,
+      "earnEp": 1
+    },
+    {
+      "level": 3,
+      "exp": 300,
+      "earnEp": 1
+    },
+    {
+      "level": 4,
+      "exp": 500,
+      "earnEp": 1
+    },
+    {
+      "level": 5,
+      "exp": 900,
+      "earnEp": 2
+    },
+    {
+      "level": 6,
+      "exp": 1400,
+      "earnEp": 1
+    },
+    {
+      "level": 7,
+      "exp": 2000,
+      "earnEp": 1
+    },
+    {
+      "level": 8,
+      "exp": 2700,
+      "earnEp": 1
+    },
+    {
+      "level": 9,
+      "exp": 3500,
+      "earnEp": 1
+    },
+    {
+      "level": 10,
+      "exp": 4400,
+      "earnEp": 2
+    },
+    {
+      "level": 11,
+      "exp": 5400,
+      "earnEp": 1
+    },
+    {
+      "level": 12,
+      "exp": 6500,
+      "earnEp": 1
+    },
+    {
+      "level": 13,
+      "exp": 7700,
+      "earnEp": 1
+    },
+    {
+      "level": 14,
+      "exp": 9000,
+      "earnEp": 1
+    },
+    {
+      "level": 15,
+      "exp": 10400,
+      "earnEp": 1
+    },
+    {
+      "level": 16,
+      "exp": 11900,
+      "earnEp": 1
+    },
+    {
+      "level": 17,
+      "exp": 13500,
+      "earnEp": 1
+    },
+    {
+      "level": 18,
+      "exp": 15200,
+      "earnEp": 1
+    },
+    {
+      "level": 19,
+      "exp": 17000,
+      "earnEp": 1
+    },
+    {
+      "level": 20,
+      "exp": 18900,
+      "earnEp": 2
+    },
+    {
+      "level": 21,
+      "exp": 20900,
+      "earnEp": 1
+    },
+    {
+      "level": 22,
+      "exp": 23000,
+      "earnEp": 1
+    },
+    {
+      "level": 23,
+      "exp": 25128,
+      "earnEp": 1
+    },
+    {
+      "level": 24,
+      "exp": 27274,
+      "earnEp": 1
+    },
+    {
+      "level": 25,
+      "exp": 29437,
+      "earnEp": 1
+    },
+    {
+      "level": 26,
+      "exp": 31616,
+      "earnEp": 1
+    },
+    {
+      "level": 27,
+      "exp": 33811,
+      "earnEp": 1
+    },
+    {
+      "level": 28,
+      "exp": 36021,
+      "earnEp": 1
+    },
+    {
+      "level": 29,
+      "exp": 38246,
+      "earnEp": 1
+    },
+    {
+      "level": 30,
+      "exp": 40485,
+      "earnEp": 2
+    },
+    {
+      "level": 31,
+      "exp": 42738,
+      "earnEp": 1
+    },
+    {
+      "level": 32,
+      "exp": 45005,
+      "earnEp": 1
+    },
+    {
+      "level": 33,
+      "exp": 47285,
+      "earnEp": 1
+    },
+    {
+      "level": 34,
+      "exp": 49578,
+      "earnEp": 1
+    },
+    {
+      "level": 35,
+      "exp": 51884,
+      "earnEp": 1
+    },
+    {
+      "level": 36,
+      "exp": 54202,
+      "earnEp": 1
+    },
+    {
+      "level": 37,
+      "exp": 56532,
+      "earnEp": 1
+    },
+    {
+      "level": 38,
+      "exp": 58874,
+      "earnEp": 1
+    },
+    {
+      "level": 39,
+      "exp": 61228,
+      "earnEp": 1
+    },
+    {
+      "level": 40,
+      "exp": 63593,
+      "earnEp": 2
+    },
+    {
+      "level": 41,
+      "exp": 65969,
+      "earnEp": 1
+    },
+    {
+      "level": 42,
+      "exp": 68356,
+      "earnEp": 1
+    },
+    {
+      "level": 43,
+      "exp": 70754,
+      "earnEp": 1
+    },
+    {
+      "level": 44,
+      "exp": 73162,
+      "earnEp": 1
+    },
+    {
+      "level": 45,
+      "exp": 75581,
+      "earnEp": 1
+    },
+    {
+      "level": 46,
+      "exp": 78010,
+      "earnEp": 1
+    },
+    {
+      "level": 47,
+      "exp": 80449,
+      "earnEp": 1
+    },
+    {
+      "level": 48,
+      "exp": 82897,
+      "earnEp": 1
+    },
+    {
+      "level": 49,
+      "exp": 85355,
+      "earnEp": 1
+    },
+    {
+      "level": 50,
+      "exp": 89056,
+      "earnEp": 3
+    },
+    {
+      "level": 51,
+      "exp": 92771,
+      "earnEp": 1
+    },
+    {
+      "level": 52,
+      "exp": 96500,
+      "earnEp": 1
+    },
+    {
+      "level": 53,
+      "exp": 100242,
+      "earnEp": 1
+    },
+    {
+      "level": 54,
+      "exp": 103997,
+      "earnEp": 1
+    },
+    {
+      "level": 55,
+      "exp": 107765,
+      "earnEp": 1
+    },
+    {
+      "level": 56,
+      "exp": 111546,
+      "earnEp": 1
+    },
+    {
+      "level": 57,
+      "exp": 115340,
+      "earnEp": 1
+    },
+    {
+      "level": 58,
+      "exp": 119146,
+      "earnEp": 1
+    },
+    {
+      "level": 59,
+      "exp": 122965,
+      "earnEp": 1
+    },
+    {
+      "level": 60,
+      "exp": 126796,
+      "earnEp": 2
+    },
+    {
+      "level": 61,
+      "exp": 130639,
+      "earnEp": 1
+    },
+    {
+      "level": 62,
+      "exp": 134494,
+      "earnEp": 1
+    },
+    {
+      "level": 63,
+      "exp": 138360,
+      "earnEp": 1
+    },
+    {
+      "level": 64,
+      "exp": 142238,
+      "earnEp": 1
+    },
+    {
+      "level": 65,
+      "exp": 146127,
+      "earnEp": 1
+    },
+    {
+      "level": 66,
+      "exp": 150027,
+      "earnEp": 1
+    },
+    {
+      "level": 67,
+      "exp": 153939,
+      "earnEp": 1
+    },
+    {
+      "level": 68,
+      "exp": 157862,
+      "earnEp": 1
+    },
+    {
+      "level": 69,
+      "exp": 161795,
+      "earnEp": 1
+    },
+    {
+      "level": 70,
+      "exp": 165739,
+      "earnEp": 2
+    },
+    {
+      "level": 71,
+      "exp": 169694,
+      "earnEp": 1
+    },
+    {
+      "level": 72,
+      "exp": 173659,
+      "earnEp": 1
+    },
+    {
+      "level": 73,
+      "exp": 177634,
+      "earnEp": 1
+    },
+    {
+      "level": 74,
+      "exp": 181620,
+      "earnEp": 1
+    },
+    {
+      "level": 75,
+      "exp": 185616,
+      "earnEp": 1
+    },
+    {
+      "level": 76,
+      "exp": 189622,
+      "earnEp": 1
+    },
+    {
+      "level": 77,
+      "exp": 193638,
+      "earnEp": 1
+    },
+    {
+      "level": 78,
+      "exp": 197663,
+      "earnEp": 1
+    },
+    {
+      "level": 79,
+      "exp": 201698,
+      "earnEp": 1
+    },
+    {
+      "level": 80,
+      "exp": 205743,
+      "earnEp": 2
+    },
+    {
+      "level": 81,
+      "exp": 209797,
+      "earnEp": 1
+    },
+    {
+      "level": 82,
+      "exp": 213861,
+      "earnEp": 1
+    },
+    {
+      "level": 83,
+      "exp": 217934,
+      "earnEp": 1
+    },
+    {
+      "level": 84,
+      "exp": 222016,
+      "earnEp": 1
+    },
+    {
+      "level": 85,
+      "exp": 226107,
+      "earnEp": 1
+    },
+    {
+      "level": 86,
+      "exp": 230207,
+      "earnEp": 1
+    },
+    {
+      "level": 87,
+      "exp": 234316,
+      "earnEp": 1
+    },
+    {
+      "level": 88,
+      "exp": 238434,
+      "earnEp": 1
+    },
+    {
+      "level": 89,
+      "exp": 242561,
+      "earnEp": 1
+    },
+    {
+      "level": 90,
+      "exp": 246697,
+      "earnEp": 2
+    },
+    {
+      "level": 91,
+      "exp": 250841,
+      "earnEp": 1
+    },
+    {
+      "level": 92,
+      "exp": 254994,
+      "earnEp": 1
+    },
+    {
+      "level": 93,
+      "exp": 259155,
+      "earnEp": 1
+    },
+    {
+      "level": 94,
+      "exp": 263325,
+      "earnEp": 1
+    },
+    {
+      "level": 95,
+      "exp": 267503,
+      "earnEp": 1
+    },
+    {
+      "level": 96,
+      "exp": 271689,
+      "earnEp": 1
+    },
+    {
+      "level": 97,
+      "exp": 275883,
+      "earnEp": 1
+    },
+    {
+      "level": 98,
+      "exp": 280085,
+      "earnEp": 1
+    },
+    {
+      "level": 99,
+      "exp": 284295,
+      "earnEp": 1
+    },
+    {
+      "level": 100,
+      "exp": 288513,
+      "earnEp": 4
+    },
+    {
+      "level": 101,
+      "exp": 292739,
+      "earnEp": 1
+    },
+    {
+      "level": 102,
+      "exp": 296973,
+      "earnEp": 1
+    },
+    {
+      "level": 103,
+      "exp": 301215,
+      "earnEp": 1
+    },
+    {
+      "level": 104,
+      "exp": 305465,
+      "earnEp": 1
+    },
+    {
+      "level": 105,
+      "exp": 309722,
+      "earnEp": 1
+    },
+    {
+      "level": 106,
+      "exp": 313987,
+      "earnEp": 1
+    },
+    {
+      "level": 107,
+      "exp": 318260,
+      "earnEp": 1
+    },
+    {
+      "level": 108,
+      "exp": 322540,
+      "earnEp": 1
+    },
+    {
+      "level": 109,
+      "exp": 326827,
+      "earnEp": 1
+    },
+    {
+      "level": 110,
+      "exp": 331122,
+      "earnEp": 2
+    },
+    {
+      "level": 111,
+      "exp": 335424,
+      "earnEp": 1
+    },
+    {
+      "level": 112,
+      "exp": 339733,
+      "earnEp": 1
+    },
+    {
+      "level": 113,
+      "exp": 344050,
+      "earnEp": 1
+    },
+    {
+      "level": 114,
+      "exp": 348374,
+      "earnEp": 1
+    },
+    {
+      "level": 115,
+      "exp": 352705,
+      "earnEp": 1
+    },
+    {
+      "level": 116,
+      "exp": 357043,
+      "earnEp": 1
+    },
+    {
+      "level": 117,
+      "exp": 361388,
+      "earnEp": 1
+    },
+    {
+      "level": 118,
+      "exp": 367191,
+      "earnEp": 1
+    },
+    {
+      "level": 119,
+      "exp": 373003,
+      "earnEp": 1
+    },
+    {
+      "level": 120,
+      "exp": 378824,
+      "earnEp": 2
+    },
+    {
+      "level": 121,
+      "exp": 384654,
+      "earnEp": 1
+    },
+    {
+      "level": 122,
+      "exp": 390493,
+      "earnEp": 1
+    },
+    {
+      "level": 123,
+      "exp": 396341,
+      "earnEp": 1
+    },
+    {
+      "level": 124,
+      "exp": 402198,
+      "earnEp": 1
+    },
+    {
+      "level": 125,
+      "exp": 408064,
+      "earnEp": 1
+    },
+    {
+      "level": 126,
+      "exp": 413939,
+      "earnEp": 1
+    },
+    {
+      "level": 127,
+      "exp": 419822,
+      "earnEp": 1
+    },
+    {
+      "level": 128,
+      "exp": 425714,
+      "earnEp": 1
+    },
+    {
+      "level": 129,
+      "exp": 431615,
+      "earnEp": 1
+    },
+    {
+      "level": 130,
+      "exp": 437524,
+      "earnEp": 2
+    },
+    {
+      "level": 131,
+      "exp": 443442,
+      "earnEp": 1
+    },
+    {
+      "level": 132,
+      "exp": 449368,
+      "earnEp": 1
+    },
+    {
+      "level": 133,
+      "exp": 455303,
+      "earnEp": 1
+    },
+    {
+      "level": 134,
+      "exp": 461246,
+      "earnEp": 1
+    },
+    {
+      "level": 135,
+      "exp": 467198,
+      "earnEp": 1
+    },
+    {
+      "level": 136,
+      "exp": 473158,
+      "earnEp": 1
+    },
+    {
+      "level": 137,
+      "exp": 479126,
+      "earnEp": 1
+    },
+    {
+      "level": 138,
+      "exp": 485102,
+      "earnEp": 1
+    },
+    {
+      "level": 139,
+      "exp": 491086,
+      "earnEp": 1
+    },
+    {
+      "level": 140,
+      "exp": 497078,
+      "earnEp": 2
+    },
+    {
+      "level": 141,
+      "exp": 503078,
+      "earnEp": 1
+    },
+    {
+      "level": 142,
+      "exp": 509086,
+      "earnEp": 1
+    },
+    {
+      "level": 143,
+      "exp": 515102,
+      "earnEp": 1
+    },
+    {
+      "level": 144,
+      "exp": 521126,
+      "earnEp": 1
+    },
+    {
+      "level": 145,
+      "exp": 527158,
+      "earnEp": 1
+    },
+    {
+      "level": 146,
+      "exp": 533198,
+      "earnEp": 1
+    },
+    {
+      "level": 147,
+      "exp": 539246,
+      "earnEp": 1
+    },
+    {
+      "level": 148,
+      "exp": 545301,
+      "earnEp": 1
+    },
+    {
+      "level": 149,
+      "exp": 551364,
+      "earnEp": 1
+    },
+    {
+      "level": 150,
+      "exp": 557435,
+      "earnEp": 3
+    },
+    {
+      "level": 151,
+      "exp": 563513,
+      "earnEp": 1
+    },
+    {
+      "level": 152,
+      "exp": 569599,
+      "earnEp": 1
+    },
+    {
+      "level": 153,
+      "exp": 575692,
+      "earnEp": 1
+    },
+    {
+      "level": 154,
+      "exp": 581793,
+      "earnEp": 1
+    },
+    {
+      "level": 155,
+      "exp": 587901,
+      "earnEp": 1
+    },
+    {
+      "level": 156,
+      "exp": 594017,
+      "earnEp": 1
+    },
+    {
+      "level": 157,
+      "exp": 600140,
+      "earnEp": 1
+    },
+    {
+      "level": 158,
+      "exp": 606270,
+      "earnEp": 1
+    },
+    {
+      "level": 159,
+      "exp": 612408,
+      "earnEp": 1
+    },
+    {
+      "level": 160,
+      "exp": 618553,
+      "earnEp": 2
+    },
+    {
+      "level": 161,
+      "exp": 624705,
+      "earnEp": 1
+    },
+    {
+      "level": 162,
+      "exp": 630864,
+      "earnEp": 1
+    },
+    {
+      "level": 163,
+      "exp": 637030,
+      "earnEp": 1
+    },
+    {
+      "level": 164,
+      "exp": 643203,
+      "earnEp": 1
+    },
+    {
+      "level": 165,
+      "exp": 649383,
+      "earnEp": 1
+    },
+    {
+      "level": 166,
+      "exp": 655570,
+      "earnEp": 1
+    },
+    {
+      "level": 167,
+      "exp": 661764,
+      "earnEp": 1
+    },
+    {
+      "level": 168,
+      "exp": 667965,
+      "earnEp": 1
+    },
+    {
+      "level": 169,
+      "exp": 674173,
+      "earnEp": 1
+    },
+    {
+      "level": 170,
+      "exp": 680388,
+      "earnEp": 2
+    },
+    {
+      "level": 171,
+      "exp": 686610,
+      "earnEp": 1
+    },
+    {
+      "level": 172,
+      "exp": 692839,
+      "earnEp": 1
+    },
+    {
+      "level": 173,
+      "exp": 699075,
+      "earnEp": 1
+    },
+    {
+      "level": 174,
+      "exp": 705317,
+      "earnEp": 1
+    },
+    {
+      "level": 175,
+      "exp": 711566,
+      "earnEp": 1
+    },
+    {
+      "level": 176,
+      "exp": 717822,
+      "earnEp": 1
+    },
+    {
+      "level": 177,
+      "exp": 724085,
+      "earnEp": 1
+    },
+    {
+      "level": 178,
+      "exp": 731921,
+      "earnEp": 1
+    },
+    {
+      "level": 179,
+      "exp": 739766,
+      "earnEp": 1
+    },
+    {
+      "level": 180,
+      "exp": 747619,
+      "earnEp": 2
+    },
+    {
+      "level": 181,
+      "exp": 755480,
+      "earnEp": 1
+    },
+    {
+      "level": 182,
+      "exp": 763349,
+      "earnEp": 1
+    },
+    {
+      "level": 183,
+      "exp": 771226,
+      "earnEp": 1
+    },
+    {
+      "level": 184,
+      "exp": 779111,
+      "earnEp": 1
+    },
+    {
+      "level": 185,
+      "exp": 787004,
+      "earnEp": 1
+    },
+    {
+      "level": 186,
+      "exp": 794905,
+      "earnEp": 1
+    },
+    {
+      "level": 187,
+      "exp": 802814,
+      "earnEp": 1
+    },
+    {
+      "level": 188,
+      "exp": 810731,
+      "earnEp": 1
+    },
+    {
+      "level": 189,
+      "exp": 818656,
+      "earnEp": 1
+    },
+    {
+      "level": 190,
+      "exp": 826589,
+      "earnEp": 2
+    },
+    {
+      "level": 191,
+      "exp": 834530,
+      "earnEp": 1
+    },
+    {
+      "level": 192,
+      "exp": 842479,
+      "earnEp": 1
+    },
+    {
+      "level": 193,
+      "exp": 850435,
+      "earnEp": 1
+    },
+    {
+      "level": 194,
+      "exp": 858399,
+      "earnEp": 1
+    },
+    {
+      "level": 195,
+      "exp": 866371,
+      "earnEp": 1
+    },
+    {
+      "level": 196,
+      "exp": 874351,
+      "earnEp": 1
+    },
+    {
+      "level": 197,
+      "exp": 882338,
+      "earnEp": 1
+    },
+    {
+      "level": 198,
+      "exp": 890333,
+      "earnEp": 1
+    },
+    {
+      "level": 199,
+      "exp": 898335,
+      "earnEp": 1
+    },
+    {
+      "level": 200,
+      "exp": 906345,
+      "earnEp": 4
+    },
+    {
+      "level": 201,
+      "exp": 914362,
+      "earnEp": 1
+    },
+    {
+      "level": 202,
+      "exp": 922387,
+      "earnEp": 1
+    },
+    {
+      "level": 203,
+      "exp": 930419,
+      "earnEp": 1
+    },
+    {
+      "level": 204,
+      "exp": 938459,
+      "earnEp": 1
+    },
+    {
+      "level": 205,
+      "exp": 946506,
+      "earnEp": 1
+    },
+    {
+      "level": 206,
+      "exp": 954561,
+      "earnEp": 1
+    },
+    {
+      "level": 207,
+      "exp": 962623,
+      "earnEp": 1
+    },
+    {
+      "level": 208,
+      "exp": 970692,
+      "earnEp": 1
+    },
+    {
+      "level": 209,
+      "exp": 978768,
+      "earnEp": 1
+    },
+    {
+      "level": 210,
+      "exp": 986852,
+      "earnEp": 2
+    },
+    {
+      "level": 211,
+      "exp": 994943,
+      "earnEp": 1
+    },
+    {
+      "level": 212,
+      "exp": 1003041,
+      "earnEp": 1
+    },
+    {
+      "level": 213,
+      "exp": 1011146,
+      "earnEp": 1
+    },
+    {
+      "level": 214,
+      "exp": 1019258,
+      "earnEp": 1
+    },
+    {
+      "level": 215,
+      "exp": 1027378,
+      "earnEp": 1
+    },
+    {
+      "level": 216,
+      "exp": 1035505,
+      "earnEp": 1
+    },
+    {
+      "level": 217,
+      "exp": 1043639,
+      "earnEp": 1
+    },
+    {
+      "level": 218,
+      "exp": 1051780,
+      "earnEp": 1
+    },
+    {
+      "level": 219,
+      "exp": 1059928,
+      "earnEp": 1
+    },
+    {
+      "level": 220,
+      "exp": 1068083,
+      "earnEp": 2
+    },
+    {
+      "level": 221,
+      "exp": 1076245,
+      "earnEp": 1
+    },
+    {
+      "level": 222,
+      "exp": 1084414,
+      "earnEp": 1
+    },
+    {
+      "level": 223,
+      "exp": 1092589,
+      "earnEp": 1
+    },
+    {
+      "level": 224,
+      "exp": 1100771,
+      "earnEp": 1
+    },
+    {
+      "level": 225,
+      "exp": 1108960,
+      "earnEp": 1
+    },
+    {
+      "level": 226,
+      "exp": 1117156,
+      "earnEp": 1
+    },
+    {
+      "level": 227,
+      "exp": 1125359,
+      "earnEp": 1
+    },
+    {
+      "level": 228,
+      "exp": 1133569,
+      "earnEp": 1
+    },
+    {
+      "level": 229,
+      "exp": 1141785,
+      "earnEp": 1
+    },
+    {
+      "level": 230,
+      "exp": 1150008,
+      "earnEp": 2
+    },
+    {
+      "level": 231,
+      "exp": 1158238,
+      "earnEp": 1
+    },
+    {
+      "level": 232,
+      "exp": 1166474,
+      "earnEp": 1
+    },
+    {
+      "level": 233,
+      "exp": 1174717,
+      "earnEp": 1
+    },
+    {
+      "level": 234,
+      "exp": 1182967,
+      "earnEp": 1
+    },
+    {
+      "level": 235,
+      "exp": 1192875,
+      "earnEp": 1
+    },
+    {
+      "level": 236,
+      "exp": 1202790,
+      "earnEp": 1
+    },
+    {
+      "level": 237,
+      "exp": 1212713,
+      "earnEp": 1
+    },
+    {
+      "level": 238,
+      "exp": 1222644,
+      "earnEp": 1
+    },
+    {
+      "level": 239,
+      "exp": 1232583,
+      "earnEp": 1
+    },
+    {
+      "level": 240,
+      "exp": 1242530,
+      "earnEp": 2
+    },
+    {
+      "level": 241,
+      "exp": 1252485,
+      "earnEp": 1
+    },
+    {
+      "level": 242,
+      "exp": 1262447,
+      "earnEp": 1
+    },
+    {
+      "level": 243,
+      "exp": 1272417,
+      "earnEp": 1
+    },
+    {
+      "level": 244,
+      "exp": 1282395,
+      "earnEp": 1
+    },
+    {
+      "level": 245,
+      "exp": 1292380,
+      "earnEp": 1
+    },
+    {
+      "level": 246,
+      "exp": 1302373,
+      "earnEp": 1
+    },
+    {
+      "level": 247,
+      "exp": 1312374,
+      "earnEp": 1
+    },
+    {
+      "level": 248,
+      "exp": 1322382,
+      "earnEp": 1
+    },
+    {
+      "level": 249,
+      "exp": 1332398,
+      "earnEp": 1
+    },
+    {
+      "level": 250,
+      "exp": 1342421,
+      "earnEp": 3
+    },
+    {
+      "level": 251,
+      "exp": 1352452,
+      "earnEp": 1
+    },
+    {
+      "level": 252,
+      "exp": 1362490,
+      "earnEp": 1
+    },
+    {
+      "level": 253,
+      "exp": 1372536,
+      "earnEp": 1
+    },
+    {
+      "level": 254,
+      "exp": 1382589,
+      "earnEp": 1
+    },
+    {
+      "level": 255,
+      "exp": 1392650,
+      "earnEp": 1
+    },
+    {
+      "level": 256,
+      "exp": 1402718,
+      "earnEp": 1
+    },
+    {
+      "level": 257,
+      "exp": 1412794,
+      "earnEp": 1
+    },
+    {
+      "level": 258,
+      "exp": 1422877,
+      "earnEp": 1
+    },
+    {
+      "level": 259,
+      "exp": 1432967,
+      "earnEp": 1
+    },
+    {
+      "level": 260,
+      "exp": 1443064,
+      "earnEp": 2
+    },
+    {
+      "level": 261,
+      "exp": 1453169,
+      "earnEp": 1
+    },
+    {
+      "level": 262,
+      "exp": 1463281,
+      "earnEp": 1
+    },
+    {
+      "level": 263,
+      "exp": 1473400,
+      "earnEp": 1
+    },
+    {
+      "level": 264,
+      "exp": 1483526,
+      "earnEp": 1
+    },
+    {
+      "level": 265,
+      "exp": 1493660,
+      "earnEp": 1
+    },
+    {
+      "level": 266,
+      "exp": 1503801,
+      "earnEp": 1
+    },
+    {
+      "level": 267,
+      "exp": 1513949,
+      "earnEp": 1
+    },
+    {
+      "level": 268,
+      "exp": 1524104,
+      "earnEp": 1
+    },
+    {
+      "level": 269,
+      "exp": 1534266,
+      "earnEp": 1
+    },
+    {
+      "level": 270,
+      "exp": 1544435,
+      "earnEp": 2
+    },
+    {
+      "level": 271,
+      "exp": 1554611,
+      "earnEp": 1
+    },
+    {
+      "level": 272,
+      "exp": 1564794,
+      "earnEp": 1
+    },
+    {
+      "level": 273,
+      "exp": 1574984,
+      "earnEp": 1
+    },
+    {
+      "level": 274,
+      "exp": 1585181,
+      "earnEp": 1
+    },
+    {
+      "level": 275,
+      "exp": 1595385,
+      "earnEp": 1
+    },
+    {
+      "level": 276,
+      "exp": 1605596,
+      "earnEp": 1
+    },
+    {
+      "level": 277,
+      "exp": 1615814,
+      "earnEp": 1
+    },
+    {
+      "level": 278,
+      "exp": 1626039,
+      "earnEp": 1
+    },
+    {
+      "level": 279,
+      "exp": 1636271,
+      "earnEp": 1
+    },
+    {
+      "level": 280,
+      "exp": 1646510,
+      "earnEp": 2
+    },
+    {
+      "level": 281,
+      "exp": 1656756,
+      "earnEp": 1
+    },
+    {
+      "level": 282,
+      "exp": 1667009,
+      "earnEp": 1
+    },
+    {
+      "level": 283,
+      "exp": 1677269,
+      "earnEp": 1
+    },
+    {
+      "level": 284,
+      "exp": 1687535,
+      "earnEp": 1
+    },
+    {
+      "level": 285,
+      "exp": 1697808,
+      "earnEp": 1
+    },
+    {
+      "level": 286,
+      "exp": 1708088,
+      "earnEp": 1
+    },
+    {
+      "level": 287,
+      "exp": 1718375,
+      "earnEp": 1
+    },
+    {
+      "level": 288,
+      "exp": 1728668,
+      "earnEp": 1
+    },
+    {
+      "level": 289,
+      "exp": 1740685,
+      "earnEp": 1
+    },
+    {
+      "level": 290,
+      "exp": 1752709,
+      "earnEp": 2
+    },
+    {
+      "level": 291,
+      "exp": 1764741,
+      "earnEp": 1
+    },
+    {
+      "level": 292,
+      "exp": 1776781,
+      "earnEp": 1
+    },
+    {
+      "level": 293,
+      "exp": 1788829,
+      "earnEp": 1
+    },
+    {
+      "level": 294,
+      "exp": 1800884,
+      "earnEp": 1
+    },
+    {
+      "level": 295,
+      "exp": 1812947,
+      "earnEp": 1
+    },
+    {
+      "level": 296,
+      "exp": 1825018,
+      "earnEp": 1
+    },
+    {
+      "level": 297,
+      "exp": 1837096,
+      "earnEp": 1
+    },
+    {
+      "level": 298,
+      "exp": 1849182,
+      "earnEp": 1
+    },
+    {
+      "level": 299,
+      "exp": 1861276,
+      "earnEp": 1
+    },
+    {
+      "level": 300,
+      "exp": 1873377,
+      "earnEp": 4
+    },
+    {
+      "level": 301,
+      "exp": 1885486,
+      "earnEp": 1
+    },
+    {
+      "level": 302,
+      "exp": 1897602,
+      "earnEp": 1
+    },
+    {
+      "level": 303,
+      "exp": 1909726,
+      "earnEp": 1
+    },
+    {
+      "level": 304,
+      "exp": 1921857,
+      "earnEp": 1
+    },
+    {
+      "level": 305,
+      "exp": 1933996,
+      "earnEp": 1
+    },
+    {
+      "level": 306,
+      "exp": 1946142,
+      "earnEp": 1
+    },
+    {
+      "level": 307,
+      "exp": 1958296,
+      "earnEp": 1
+    },
+    {
+      "level": 308,
+      "exp": 1970457,
+      "earnEp": 1
+    },
+    {
+      "level": 309,
+      "exp": 1982626,
+      "earnEp": 1
+    },
+    {
+      "level": 310,
+      "exp": 1994802,
+      "earnEp": 2
+    },
+    {
+      "level": 311,
+      "exp": 2006985,
+      "earnEp": 1
+    },
+    {
+      "level": 312,
+      "exp": 2019176,
+      "earnEp": 1
+    },
+    {
+      "level": 313,
+      "exp": 2031374,
+      "earnEp": 1
+    },
+    {
+      "level": 314,
+      "exp": 2043579,
+      "earnEp": 1
+    },
+    {
+      "level": 315,
+      "exp": 2055792,
+      "earnEp": 1
+    },
+    {
+      "level": 316,
+      "exp": 2068012,
+      "earnEp": 1
+    },
+    {
+      "level": 317,
+      "exp": 2080239,
+      "earnEp": 1
+    },
+    {
+      "level": 318,
+      "exp": 2092473,
+      "earnEp": 1
+    },
+    {
+      "level": 319,
+      "exp": 2104715,
+      "earnEp": 1
+    },
+    {
+      "level": 320,
+      "exp": 2116964,
+      "earnEp": 2
+    },
+    {
+      "level": 321,
+      "exp": 2129220,
+      "earnEp": 1
+    },
+    {
+      "level": 322,
+      "exp": 2141483,
+      "earnEp": 1
+    },
+    {
+      "level": 323,
+      "exp": 2153753,
+      "earnEp": 1
+    },
+    {
+      "level": 324,
+      "exp": 2166030,
+      "earnEp": 1
+    },
+    {
+      "level": 325,
+      "exp": 2178314,
+      "earnEp": 1
+    },
+    {
+      "level": 326,
+      "exp": 2190606,
+      "earnEp": 1
+    },
+    {
+      "level": 327,
+      "exp": 2202905,
+      "earnEp": 1
+    },
+    {
+      "level": 328,
+      "exp": 2215211,
+      "earnEp": 1
+    },
+    {
+      "level": 329,
+      "exp": 2227524,
+      "earnEp": 1
+    },
+    {
+      "level": 330,
+      "exp": 2239844,
+      "earnEp": 2
+    },
+    {
+      "level": 331,
+      "exp": 2252171,
+      "earnEp": 1
+    },
+    {
+      "level": 332,
+      "exp": 2264505,
+      "earnEp": 1
+    },
+    {
+      "level": 333,
+      "exp": 2276846,
+      "earnEp": 1
+    },
+    {
+      "level": 334,
+      "exp": 2289194,
+      "earnEp": 1
+    },
+    {
+      "level": 335,
+      "exp": 2301549,
+      "earnEp": 1
+    },
+    {
+      "level": 336,
+      "exp": 2313910,
+      "earnEp": 1
+    },
+    {
+      "level": 337,
+      "exp": 2326278,
+      "earnEp": 1
+    },
+    {
+      "level": 338,
+      "exp": 2338653,
+      "earnEp": 1
+    },
+    {
+      "level": 339,
+      "exp": 2351035,
+      "earnEp": 1
+    },
+    {
+      "level": 340,
+      "exp": 2363424,
+      "earnEp": 2
+    },
+    {
+      "level": 341,
+      "exp": 2375820,
+      "earnEp": 1
+    },
+    {
+      "level": 342,
+      "exp": 2389994,
+      "earnEp": 1
+    },
+    {
+      "level": 343,
+      "exp": 2404176,
+      "earnEp": 1
+    },
+    {
+      "level": 344,
+      "exp": 2418366,
+      "earnEp": 1
+    },
+    {
+      "level": 345,
+      "exp": 2432564,
+      "earnEp": 1
+    },
+    {
+      "level": 346,
+      "exp": 2446769,
+      "earnEp": 1
+    },
+    {
+      "level": 347,
+      "exp": 2460982,
+      "earnEp": 1
+    },
+    {
+      "level": 348,
+      "exp": 2475203,
+      "earnEp": 1
+    },
+    {
+      "level": 349,
+      "exp": 2489431,
+      "earnEp": 1
+    },
+    {
+      "level": 350,
+      "exp": 2503667,
+      "earnEp": 3
+    },
+    {
+      "level": 351,
+      "exp": 2517911,
+      "earnEp": 1
+    },
+    {
+      "level": 352,
+      "exp": 2532162,
+      "earnEp": 1
+    },
+    {
+      "level": 353,
+      "exp": 2546421,
+      "earnEp": 1
+    },
+    {
+      "level": 354,
+      "exp": 2560687,
+      "earnEp": 1
+    },
+    {
+      "level": 355,
+      "exp": 2574961,
+      "earnEp": 1
+    },
+    {
+      "level": 356,
+      "exp": 2589243,
+      "earnEp": 1
+    },
+    {
+      "level": 357,
+      "exp": 2603532,
+      "earnEp": 1
+    },
+    {
+      "level": 358,
+      "exp": 2617829,
+      "earnEp": 1
+    },
+    {
+      "level": 359,
+      "exp": 2632133,
+      "earnEp": 1
+    },
+    {
+      "level": 360,
+      "exp": 2646445,
+      "earnEp": 2
+    },
+    {
+      "level": 361,
+      "exp": 2660764,
+      "earnEp": 1
+    },
+    {
+      "level": 362,
+      "exp": 2675090,
+      "earnEp": 1
+    },
+    {
+      "level": 363,
+      "exp": 2689424,
+      "earnEp": 1
+    },
+    {
+      "level": 364,
+      "exp": 2703765,
+      "earnEp": 1
+    },
+    {
+      "level": 365,
+      "exp": 2718114,
+      "earnEp": 1
+    },
+    {
+      "level": 366,
+      "exp": 2732470,
+      "earnEp": 1
+    },
+    {
+      "level": 367,
+      "exp": 2746833,
+      "earnEp": 1
+    },
+    {
+      "level": 368,
+      "exp": 2761204,
+      "earnEp": 1
+    },
+    {
+      "level": 369,
+      "exp": 2775582,
+      "earnEp": 1
+    },
+    {
+      "level": 370,
+      "exp": 2789967,
+      "earnEp": 2
+    },
+    {
+      "level": 371,
+      "exp": 2804360,
+      "earnEp": 1
+    },
+    {
+      "level": 372,
+      "exp": 2818760,
+      "earnEp": 1
+    },
+    {
+      "level": 373,
+      "exp": 2833167,
+      "earnEp": 1
+    },
+    {
+      "level": 374,
+      "exp": 2847581,
+      "earnEp": 1
+    },
+    {
+      "level": 375,
+      "exp": 2862003,
+      "earnEp": 1
+    },
+    {
+      "level": 376,
+      "exp": 2876432,
+      "earnEp": 1
+    },
+    {
+      "level": 377,
+      "exp": 2890868,
+      "earnEp": 1
+    },
+    {
+      "level": 378,
+      "exp": 2905311,
+      "earnEp": 1
+    },
+    {
+      "level": 379,
+      "exp": 2919761,
+      "earnEp": 1
+    },
+    {
+      "level": 380,
+      "exp": 2934218,
+      "earnEp": 2
+    },
+    {
+      "level": 381,
+      "exp": 2948683,
+      "earnEp": 1
+    },
+    {
+      "level": 382,
+      "exp": 2963155,
+      "earnEp": 1
+    },
+    {
+      "level": 383,
+      "exp": 2977634,
+      "earnEp": 1
+    },
+    {
+      "level": 384,
+      "exp": 2992120,
+      "earnEp": 1
+    },
+    {
+      "level": 385,
+      "exp": 3006613,
+      "earnEp": 1
+    },
+    {
+      "level": 386,
+      "exp": 3021113,
+      "earnEp": 1
+    },
+    {
+      "level": 387,
+      "exp": 3035620,
+      "earnEp": 1
+    },
+    {
+      "level": 388,
+      "exp": 3050134,
+      "earnEp": 1
+    },
+    {
+      "level": 389,
+      "exp": 3064655,
+      "earnEp": 1
+    },
+    {
+      "level": 390,
+      "exp": 3079183,
+      "earnEp": 2
+    },
+    {
+      "level": 391,
+      "exp": 3093718,
+      "earnEp": 1
+    },
+    {
+      "level": 392,
+      "exp": 3108260,
+      "earnEp": 1
+    },
+    {
+      "level": 393,
+      "exp": 3124628,
+      "earnEp": 1
+    },
+    {
+      "level": 394,
+      "exp": 3141003,
+      "earnEp": 1
+    },
+    {
+      "level": 395,
+      "exp": 3157386,
+      "earnEp": 1
+    },
+    {
+      "level": 396,
+      "exp": 3173777,
+      "earnEp": 1
+    },
+    {
+      "level": 397,
+      "exp": 3190176,
+      "earnEp": 1
+    },
+    {
+      "level": 398,
+      "exp": 3206583,
+      "earnEp": 1
+    },
+    {
+      "level": 399,
+      "exp": 3222997,
+      "earnEp": 1
+    },
+    {
+      "level": 400,
+      "exp": 3239419,
+      "earnEp": 4
+    },
+    {
+      "level": 401,
+      "exp": 3255849,
+      "earnEp": 1
+    },
+    {
+      "level": 402,
+      "exp": 3272286,
+      "earnEp": 1
+    },
+    {
+      "level": 403,
+      "exp": 3288731,
+      "earnEp": 1
+    },
+    {
+      "level": 404,
+      "exp": 3305184,
+      "earnEp": 1
+    },
+    {
+      "level": 405,
+      "exp": 3321644,
+      "earnEp": 1
+    },
+    {
+      "level": 406,
+      "exp": 3338112,
+      "earnEp": 1
+    },
+    {
+      "level": 407,
+      "exp": 3354588,
+      "earnEp": 1
+    },
+    {
+      "level": 408,
+      "exp": 3371071,
+      "earnEp": 1
+    },
+    {
+      "level": 409,
+      "exp": 3387562,
+      "earnEp": 1
+    },
+    {
+      "level": 410,
+      "exp": 3404060,
+      "earnEp": 2
+    },
+    {
+      "level": 411,
+      "exp": 3420566,
+      "earnEp": 1
+    },
+    {
+      "level": 412,
+      "exp": 3437079,
+      "earnEp": 1
+    },
+    {
+      "level": 413,
+      "exp": 3453600,
+      "earnEp": 1
+    },
+    {
+      "level": 414,
+      "exp": 3470128,
+      "earnEp": 1
+    },
+    {
+      "level": 415,
+      "exp": 3486664,
+      "earnEp": 1
+    },
+    {
+      "level": 416,
+      "exp": 3503207,
+      "earnEp": 1
+    },
+    {
+      "level": 417,
+      "exp": 3519758,
+      "earnEp": 1
+    },
+    {
+      "level": 418,
+      "exp": 3536316,
+      "earnEp": 1
+    },
+    {
+      "level": 419,
+      "exp": 3552882,
+      "earnEp": 1
+    },
+    {
+      "level": 420,
+      "exp": 3569455,
+      "earnEp": 2
+    },
+    {
+      "level": 421,
+      "exp": 3586035,
+      "earnEp": 1
+    },
+    {
+      "level": 422,
+      "exp": 3602623,
+      "earnEp": 1
+    },
+    {
+      "level": 423,
+      "exp": 3619218,
+      "earnEp": 1
+    },
+    {
+      "level": 424,
+      "exp": 3635821,
+      "earnEp": 1
+    },
+    {
+      "level": 425,
+      "exp": 3652431,
+      "earnEp": 1
+    },
+    {
+      "level": 426,
+      "exp": 3669048,
+      "earnEp": 1
+    },
+    {
+      "level": 427,
+      "exp": 3685673,
+      "earnEp": 1
+    },
+    {
+      "level": 428,
+      "exp": 3702305,
+      "earnEp": 1
+    },
+    {
+      "level": 429,
+      "exp": 3718944,
+      "earnEp": 1
+    },
+    {
+      "level": 430,
+      "exp": 3735590,
+      "earnEp": 2
+    },
+    {
+      "level": 431,
+      "exp": 3752244,
+      "earnEp": 1
+    },
+    {
+      "level": 432,
+      "exp": 3768905,
+      "earnEp": 1
+    },
+    {
+      "level": 433,
+      "exp": 3785573,
+      "earnEp": 1
+    },
+    {
+      "level": 434,
+      "exp": 3802248,
+      "earnEp": 1
+    },
+    {
+      "level": 435,
+      "exp": 3818931,
+      "earnEp": 1
+    },
+    {
+      "level": 436,
+      "exp": 3835621,
+      "earnEp": 1
+    },
+    {
+      "level": 437,
+      "exp": 3852318,
+      "earnEp": 1
+    },
+    {
+      "level": 438,
+      "exp": 3869022,
+      "earnEp": 1
+    },
+    {
+      "level": 439,
+      "exp": 3885733,
+      "earnEp": 1
+    },
+    {
+      "level": 440,
+      "exp": 3902451,
+      "earnEp": 2
+    },
+    {
+      "level": 441,
+      "exp": 3919176,
+      "earnEp": 1
+    },
+    {
+      "level": 442,
+      "exp": 3937768,
+      "earnEp": 1
+    },
+    {
+      "level": 443,
+      "exp": 3956368,
+      "earnEp": 1
+    },
+    {
+      "level": 444,
+      "exp": 3974976,
+      "earnEp": 1
+    },
+    {
+      "level": 445,
+      "exp": 3993591,
+      "earnEp": 1
+    },
+    {
+      "level": 446,
+      "exp": 4012214,
+      "earnEp": 1
+    },
+    {
+      "level": 447,
+      "exp": 4030845,
+      "earnEp": 1
+    },
+    {
+      "level": 448,
+      "exp": 4049484,
+      "earnEp": 1
+    },
+    {
+      "level": 449,
+      "exp": 4068131,
+      "earnEp": 1
+    },
+    {
+      "level": 450,
+      "exp": 4086785,
+      "earnEp": 3
+    },
+    {
+      "level": 451,
+      "exp": 4105447,
+      "earnEp": 1
+    },
+    {
+      "level": 452,
+      "exp": 4124117,
+      "earnEp": 1
+    },
+    {
+      "level": 453,
+      "exp": 4142795,
+      "earnEp": 1
+    },
+    {
+      "level": 454,
+      "exp": 4161480,
+      "earnEp": 1
+    },
+    {
+      "level": 455,
+      "exp": 4180173,
+      "earnEp": 1
+    },
+    {
+      "level": 456,
+      "exp": 4198874,
+      "earnEp": 1
+    },
+    {
+      "level": 457,
+      "exp": 4217583,
+      "earnEp": 1
+    },
+    {
+      "level": 458,
+      "exp": 4236299,
+      "earnEp": 1
+    },
+    {
+      "level": 459,
+      "exp": 4255023,
+      "earnEp": 1
+    },
+    {
+      "level": 460,
+      "exp": 4273755,
+      "earnEp": 2
+    },
+    {
+      "level": 461,
+      "exp": 4292494,
+      "earnEp": 1
+    },
+    {
+      "level": 462,
+      "exp": 4311241,
+      "earnEp": 1
+    },
+    {
+      "level": 463,
+      "exp": 4329995,
+      "earnEp": 1
+    },
+    {
+      "level": 464,
+      "exp": 4348757,
+      "earnEp": 1
+    },
+    {
+      "level": 465,
+      "exp": 4367527,
+      "earnEp": 1
+    },
+    {
+      "level": 466,
+      "exp": 4386304,
+      "earnEp": 1
+    },
+    {
+      "level": 467,
+      "exp": 4405089,
+      "earnEp": 1
+    },
+    {
+      "level": 468,
+      "exp": 4423881,
+      "earnEp": 1
+    },
+    {
+      "level": 469,
+      "exp": 4442681,
+      "earnEp": 1
+    },
+    {
+      "level": 470,
+      "exp": 4461488,
+      "earnEp": 2
+    },
+    {
+      "level": 471,
+      "exp": 4480303,
+      "earnEp": 1
+    },
+    {
+      "level": 472,
+      "exp": 4499125,
+      "earnEp": 1
+    },
+    {
+      "level": 473,
+      "exp": 4517955,
+      "earnEp": 1
+    },
+    {
+      "level": 474,
+      "exp": 4536792,
+      "earnEp": 1
+    },
+    {
+      "level": 475,
+      "exp": 4555637,
+      "earnEp": 1
+    },
+    {
+      "level": 476,
+      "exp": 4574489,
+      "earnEp": 1
+    },
+    {
+      "level": 477,
+      "exp": 4593349,
+      "earnEp": 1
+    },
+    {
+      "level": 478,
+      "exp": 4612216,
+      "earnEp": 1
+    },
+    {
+      "level": 479,
+      "exp": 4631090,
+      "earnEp": 1
+    },
+    {
+      "level": 480,
+      "exp": 4649972,
+      "earnEp": 2
+    },
+    {
+      "level": 481,
+      "exp": 4668861,
+      "earnEp": 1
+    },
+    {
+      "level": 482,
+      "exp": 4687757,
+      "earnEp": 1
+    },
+    {
+      "level": 483,
+      "exp": 4706661,
+      "earnEp": 1
+    },
+    {
+      "level": 484,
+      "exp": 4725572,
+      "earnEp": 1
+    },
+    {
+      "level": 485,
+      "exp": 4744490,
+      "earnEp": 1
+    },
+    {
+      "level": 486,
+      "exp": 4763416,
+      "earnEp": 1
+    },
+    {
+      "level": 487,
+      "exp": 4782349,
+      "earnEp": 1
+    },
+    {
+      "level": 488,
+      "exp": 4801289,
+      "earnEp": 1
+    },
+    {
+      "level": 489,
+      "exp": 4820237,
+      "earnEp": 1
+    },
+    {
+      "level": 490,
+      "exp": 4839192,
+      "earnEp": 2
+    },
+    {
+      "level": 491,
+      "exp": 4860050,
+      "earnEp": 1
+    },
+    {
+      "level": 492,
+      "exp": 4880916,
+      "earnEp": 1
+    },
+    {
+      "level": 493,
+      "exp": 4901790,
+      "earnEp": 1
+    },
+    {
+      "level": 494,
+      "exp": 4922672,
+      "earnEp": 1
+    },
+    {
+      "level": 495,
+      "exp": 4943562,
+      "earnEp": 1
+    },
+    {
+      "level": 496,
+      "exp": 4964460,
+      "earnEp": 1
+    },
+    {
+      "level": 497,
+      "exp": 4985366,
+      "earnEp": 1
+    },
+    {
+      "level": 498,
+      "exp": 5006280,
+      "earnEp": 1
+    },
+    {
+      "level": 499,
+      "exp": 5027202,
+      "earnEp": 1
+    },
+    {
+      "level": 500,
+      "exp": 5048132,
+      "earnEp": 4
+    },
+    {
+      "level": 501,
+      "exp": 5069069,
+      "earnEp": 1
+    },
+    {
+      "level": 502,
+      "exp": 5090014,
+      "earnEp": 1
+    },
+    {
+      "level": 503,
+      "exp": 5110967,
+      "earnEp": 1
+    },
+    {
+      "level": 504,
+      "exp": 5131928,
+      "earnEp": 1
+    },
+    {
+      "level": 505,
+      "exp": 5152897,
+      "earnEp": 1
+    },
+    {
+      "level": 506,
+      "exp": 5173873,
+      "earnEp": 1
+    },
+    {
+      "level": 507,
+      "exp": 5194857,
+      "earnEp": 1
+    },
+    {
+      "level": 508,
+      "exp": 5215849,
+      "earnEp": 1
+    },
+    {
+      "level": 509,
+      "exp": 5236849,
+      "earnEp": 1
+    },
+    {
+      "level": 510,
+      "exp": 5257856,
+      "earnEp": 2
+    },
+    {
+      "level": 511,
+      "exp": 5278871,
+      "earnEp": 1
+    },
+    {
+      "level": 512,
+      "exp": 5299894,
+      "earnEp": 1
+    },
+    {
+      "level": 513,
+      "exp": 5320925,
+      "earnEp": 1
+    },
+    {
+      "level": 514,
+      "exp": 5341963,
+      "earnEp": 1
+    },
+    {
+      "level": 515,
+      "exp": 5363009,
+      "earnEp": 1
+    },
+    {
+      "level": 516,
+      "exp": 5384063,
+      "earnEp": 1
+    },
+    {
+      "level": 517,
+      "exp": 5405124,
+      "earnEp": 1
+    },
+    {
+      "level": 518,
+      "exp": 5426193,
+      "earnEp": 1
+    },
+    {
+      "level": 519,
+      "exp": 5447270,
+      "earnEp": 1
+    },
+    {
+      "level": 520,
+      "exp": 5468354,
+      "earnEp": 2
+    },
+    {
+      "level": 521,
+      "exp": 5489446,
+      "earnEp": 1
+    },
+    {
+      "level": 522,
+      "exp": 5510545,
+      "earnEp": 1
+    },
+    {
+      "level": 523,
+      "exp": 5531652,
+      "earnEp": 1
+    },
+    {
+      "level": 524,
+      "exp": 5552766,
+      "earnEp": 1
+    },
+    {
+      "level": 525,
+      "exp": 5573888,
+      "earnEp": 1
+    },
+    {
+      "level": 526,
+      "exp": 5595018,
+      "earnEp": 1
+    },
+    {
+      "level": 527,
+      "exp": 5616155,
+      "earnEp": 1
+    },
+    {
+      "level": 528,
+      "exp": 5637300,
+      "earnEp": 1
+    },
+    {
+      "level": 529,
+      "exp": 5658452,
+      "earnEp": 1
+    },
+    {
+      "level": 530,
+      "exp": 5679612,
+      "earnEp": 2
+    },
+    {
+      "level": 531,
+      "exp": 5700779,
+      "earnEp": 1
+    },
+    {
+      "level": 532,
+      "exp": 5721954,
+      "earnEp": 1
+    },
+    {
+      "level": 533,
+      "exp": 5743136,
+      "earnEp": 1
+    },
+    {
+      "level": 534,
+      "exp": 5764325,
+      "earnEp": 1
+    },
+    {
+      "level": 535,
+      "exp": 5785522,
+      "earnEp": 1
+    },
+    {
+      "level": 536,
+      "exp": 5806726,
+      "earnEp": 1
+    },
+    {
+      "level": 537,
+      "exp": 5827938,
+      "earnEp": 1
+    },
+    {
+      "level": 538,
+      "exp": 5849157,
+      "earnEp": 1
+    },
+    {
+      "level": 539,
+      "exp": 5872313,
+      "earnEp": 1
+    },
+    {
+      "level": 540,
+      "exp": 5895477,
+      "earnEp": 2
+    },
+    {
+      "level": 541,
+      "exp": 5918649,
+      "earnEp": 1
+    },
+    {
+      "level": 542,
+      "exp": 5941829,
+      "earnEp": 1
+    },
+    {
+      "level": 543,
+      "exp": 5965017,
+      "earnEp": 1
+    },
+    {
+      "level": 544,
+      "exp": 5988213,
+      "earnEp": 1
+    },
+    {
+      "level": 545,
+      "exp": 6011417,
+      "earnEp": 1
+    },
+    {
+      "level": 546,
+      "exp": 6034629,
+      "earnEp": 1
+    },
+    {
+      "level": 547,
+      "exp": 6057849,
+      "earnEp": 1
+    },
+    {
+      "level": 548,
+      "exp": 6081077,
+      "earnEp": 1
+    },
+    {
+      "level": 549,
+      "exp": 6104313,
+      "earnEp": 1
+    },
+    {
+      "level": 550,
+      "exp": 6127557,
+      "earnEp": 3
+    },
+    {
+      "level": 551,
+      "exp": 6150809,
+      "earnEp": 1
+    },
+    {
+      "level": 552,
+      "exp": 6174069,
+      "earnEp": 1
+    },
+    {
+      "level": 553,
+      "exp": 6197337,
+      "earnEp": 1
+    },
+    {
+      "level": 554,
+      "exp": 6220613,
+      "earnEp": 1
+    },
+    {
+      "level": 555,
+      "exp": 6243897,
+      "earnEp": 1
+    },
+    {
+      "level": 556,
+      "exp": 6267189,
+      "earnEp": 1
+    },
+    {
+      "level": 557,
+      "exp": 6290488,
+      "earnEp": 1
+    },
+    {
+      "level": 558,
+      "exp": 6313795,
+      "earnEp": 1
+    },
+    {
+      "level": 559,
+      "exp": 6337110,
+      "earnEp": 1
+    },
+    {
+      "level": 560,
+      "exp": 6360433,
+      "earnEp": 2
+    },
+    {
+      "level": 561,
+      "exp": 6383764,
+      "earnEp": 1
+    },
+    {
+      "level": 562,
+      "exp": 6407102,
+      "earnEp": 1
+    },
+    {
+      "level": 563,
+      "exp": 6430448,
+      "earnEp": 1
+    },
+    {
+      "level": 564,
+      "exp": 6453802,
+      "earnEp": 1
+    },
+    {
+      "level": 565,
+      "exp": 6477164,
+      "earnEp": 1
+    },
+    {
+      "level": 566,
+      "exp": 6500534,
+      "earnEp": 1
+    },
+    {
+      "level": 567,
+      "exp": 6523911,
+      "earnEp": 1
+    },
+    {
+      "level": 568,
+      "exp": 6547296,
+      "earnEp": 1
+    },
+    {
+      "level": 569,
+      "exp": 6570689,
+      "earnEp": 1
+    },
+    {
+      "level": 570,
+      "exp": 6594089,
+      "earnEp": 2
+    },
+    {
+      "level": 571,
+      "exp": 6617497,
+      "earnEp": 1
+    },
+    {
+      "level": 572,
+      "exp": 6640913,
+      "earnEp": 1
+    },
+    {
+      "level": 573,
+      "exp": 6664337,
+      "earnEp": 1
+    },
+    {
+      "level": 574,
+      "exp": 6687768,
+      "earnEp": 1
+    },
+    {
+      "level": 575,
+      "exp": 6711207,
+      "earnEp": 1
+    },
+    {
+      "level": 576,
+      "exp": 6734653,
+      "earnEp": 1
+    },
+    {
+      "level": 577,
+      "exp": 6758107,
+      "earnEp": 1
+    },
+    {
+      "level": 578,
+      "exp": 6781569,
+      "earnEp": 1
+    },
+    {
+      "level": 579,
+      "exp": 6805038,
+      "earnEp": 1
+    },
+    {
+      "level": 580,
+      "exp": 6828515,
+      "earnEp": 2
+    },
+    {
+      "level": 581,
+      "exp": 6852000,
+      "earnEp": 1
+    },
+    {
+      "level": 582,
+      "exp": 6875492,
+      "earnEp": 1
+    },
+    {
+      "level": 583,
+      "exp": 6898992,
+      "earnEp": 1
+    },
+    {
+      "level": 584,
+      "exp": 6922499,
+      "earnEp": 1
+    },
+    {
+      "level": 585,
+      "exp": 6946014,
+      "earnEp": 1
+    },
+    {
+      "level": 586,
+      "exp": 6971496,
+      "earnEp": 1
+    },
+    {
+      "level": 587,
+      "exp": 6996987,
+      "earnEp": 1
+    },
+    {
+      "level": 588,
+      "exp": 7022486,
+      "earnEp": 1
+    },
+    {
+      "level": 589,
+      "exp": 7047993,
+      "earnEp": 1
+    },
+    {
+      "level": 590,
+      "exp": 7073508,
+      "earnEp": 2
+    },
+    {
+      "level": 591,
+      "exp": 7099031,
+      "earnEp": 1
+    },
+    {
+      "level": 592,
+      "exp": 7124562,
+      "earnEp": 1
+    },
+    {
+      "level": 593,
+      "exp": 7150101,
+      "earnEp": 1
+    },
+    {
+      "level": 594,
+      "exp": 7175648,
+      "earnEp": 1
+    },
+    {
+      "level": 595,
+      "exp": 7201203,
+      "earnEp": 1
+    },
+    {
+      "level": 596,
+      "exp": 7226767,
+      "earnEp": 1
+    },
+    {
+      "level": 597,
+      "exp": 7252339,
+      "earnEp": 1
+    },
+    {
+      "level": 598,
+      "exp": 7277919,
+      "earnEp": 1
+    },
+    {
+      "level": 599,
+      "exp": 7303507,
+      "earnEp": 1
+    },
+    {
+      "level": 600,
+      "exp": 7329103,
+      "earnEp": 4
+    },
+    {
+      "level": 601,
+      "exp": 7354707,
+      "earnEp": 1
+    },
+    {
+      "level": 602,
+      "exp": 7380319,
+      "earnEp": 1
+    },
+    {
+      "level": 603,
+      "exp": 7405939,
+      "earnEp": 1
+    },
+    {
+      "level": 604,
+      "exp": 7431567,
+      "earnEp": 1
+    },
+    {
+      "level": 605,
+      "exp": 7457202,
+      "earnEp": 1
+    },
+    {
+      "level": 606,
+      "exp": 7482845,
+      "earnEp": 1
+    },
+    {
+      "level": 607,
+      "exp": 7508496,
+      "earnEp": 1
+    },
+    {
+      "level": 608,
+      "exp": 7534155,
+      "earnEp": 1
+    },
+    {
+      "level": 609,
+      "exp": 7559822,
+      "earnEp": 1
+    },
+    {
+      "level": 610,
+      "exp": 7585497,
+      "earnEp": 2
+    },
+    {
+      "level": 611,
+      "exp": 7611180,
+      "earnEp": 1
+    },
+    {
+      "level": 612,
+      "exp": 7636871,
+      "earnEp": 1
+    },
+    {
+      "level": 613,
+      "exp": 7662570,
+      "earnEp": 1
+    },
+    {
+      "level": 614,
+      "exp": 7688277,
+      "earnEp": 1
+    },
+    {
+      "level": 615,
+      "exp": 7713991,
+      "earnEp": 1
+    },
+    {
+      "level": 616,
+      "exp": 7739713,
+      "earnEp": 1
+    },
+    {
+      "level": 617,
+      "exp": 7765443,
+      "earnEp": 1
+    },
+    {
+      "level": 618,
+      "exp": 7791181,
+      "earnEp": 1
+    },
+    {
+      "level": 619,
+      "exp": 7816927,
+      "earnEp": 1
+    },
+    {
+      "level": 620,
+      "exp": 7842681,
+      "earnEp": 2
+    },
+    {
+      "level": 621,
+      "exp": 7868442,
+      "earnEp": 1
+    },
+    {
+      "level": 622,
+      "exp": 7894211,
+      "earnEp": 1
+    },
+    {
+      "level": 623,
+      "exp": 7919988,
+      "earnEp": 1
+    },
+    {
+      "level": 624,
+      "exp": 7945773,
+      "earnEp": 1
+    },
+    {
+      "level": 625,
+      "exp": 7971565,
+      "earnEp": 1
+    },
+    {
+      "level": 626,
+      "exp": 7997365,
+      "earnEp": 1
+    },
+    {
+      "level": 627,
+      "exp": 8023173,
+      "earnEp": 1
+    },
+    {
+      "level": 628,
+      "exp": 8048989,
+      "earnEp": 1
+    },
+    {
+      "level": 629,
+      "exp": 8074812,
+      "earnEp": 1
+    },
+    {
+      "level": 630,
+      "exp": 8100643,
+      "earnEp": 2
+    },
+    {
+      "level": 631,
+      "exp": 8126482,
+      "earnEp": 1
+    },
+    {
+      "level": 632,
+      "exp": 8154316,
+      "earnEp": 1
+    },
+    {
+      "level": 633,
+      "exp": 8182159,
+      "earnEp": 1
+    },
+    {
+      "level": 634,
+      "exp": 8210010,
+      "earnEp": 1
+    },
+    {
+      "level": 635,
+      "exp": 8237869,
+      "earnEp": 1
+    },
+    {
+      "level": 636,
+      "exp": 8265736,
+      "earnEp": 1
+    },
+    {
+      "level": 637,
+      "exp": 8293612,
+      "earnEp": 1
+    },
+    {
+      "level": 638,
+      "exp": 8321496,
+      "earnEp": 1
+    },
+    {
+      "level": 639,
+      "exp": 8349388,
+      "earnEp": 1
+    },
+    {
+      "level": 640,
+      "exp": 8377288,
+      "earnEp": 2
+    },
+    {
+      "level": 641,
+      "exp": 8405196,
+      "earnEp": 1
+    },
+    {
+      "level": 642,
+      "exp": 8433113,
+      "earnEp": 1
+    },
+    {
+      "level": 643,
+      "exp": 8461038,
+      "earnEp": 1
+    },
+    {
+      "level": 644,
+      "exp": 8488971,
+      "earnEp": 1
+    },
+    {
+      "level": 645,
+      "exp": 8516912,
+      "earnEp": 1
+    },
+    {
+      "level": 646,
+      "exp": 8544861,
+      "earnEp": 1
+    },
+    {
+      "level": 647,
+      "exp": 8572818,
+      "earnEp": 1
+    },
+    {
+      "level": 648,
+      "exp": 8600783,
+      "earnEp": 1
+    },
+    {
+      "level": 649,
+      "exp": 8628756,
+      "earnEp": 1
+    },
+    {
+      "level": 650,
+      "exp": 8656737,
+      "earnEp": 3
+    },
+    {
+      "level": 651,
+      "exp": 8684727,
+      "earnEp": 1
+    },
+    {
+      "level": 652,
+      "exp": 8712725,
+      "earnEp": 1
+    },
+    {
+      "level": 653,
+      "exp": 8740731,
+      "earnEp": 1
+    },
+    {
+      "level": 654,
+      "exp": 8768745,
+      "earnEp": 1
+    },
+    {
+      "level": 655,
+      "exp": 8796767,
+      "earnEp": 1
+    },
+    {
+      "level": 656,
+      "exp": 8824797,
+      "earnEp": 1
+    },
+    {
+      "level": 657,
+      "exp": 8852835,
+      "earnEp": 1
+    },
+    {
+      "level": 658,
+      "exp": 8880881,
+      "earnEp": 1
+    },
+    {
+      "level": 659,
+      "exp": 8908935,
+      "earnEp": 1
+    },
+    {
+      "level": 660,
+      "exp": 8936997,
+      "earnEp": 2
+    },
+    {
+      "level": 661,
+      "exp": 8965067,
+      "earnEp": 1
+    },
+    {
+      "level": 662,
+      "exp": 8993145,
+      "earnEp": 1
+    },
+    {
+      "level": 663,
+      "exp": 9021231,
+      "earnEp": 1
+    },
+    {
+      "level": 664,
+      "exp": 9049325,
+      "earnEp": 1
+    },
+    {
+      "level": 665,
+      "exp": 9077426,
+      "earnEp": 1
+    },
+    {
+      "level": 666,
+      "exp": 9105535,
+      "earnEp": 1
+    },
+    {
+      "level": 667,
+      "exp": 9133652,
+      "earnEp": 1
+    },
+    {
+      "level": 668,
+      "exp": 9161777,
+      "earnEp": 1
+    },
+    {
+      "level": 669,
+      "exp": 9189910,
+      "earnEp": 1
+    },
+    {
+      "level": 670,
+      "exp": 9218051,
+      "earnEp": 2
+    },
+    {
+      "level": 671,
+      "exp": 9246200,
+      "earnEp": 1
+    },
+    {
+      "level": 672,
+      "exp": 9274357,
+      "earnEp": 1
+    },
+    {
+      "level": 673,
+      "exp": 9302522,
+      "earnEp": 1
+    },
+    {
+      "level": 674,
+      "exp": 9330694,
+      "earnEp": 1
+    },
+    {
+      "level": 675,
+      "exp": 9358874,
+      "earnEp": 1
+    },
+    {
+      "level": 676,
+      "exp": 9387062,
+      "earnEp": 1
+    },
+    {
+      "level": 677,
+      "exp": 9415258,
+      "earnEp": 1
+    },
+    {
+      "level": 678,
+      "exp": 9445476,
+      "earnEp": 1
+    },
+    {
+      "level": 679,
+      "exp": 9475703,
+      "earnEp": 1
+    },
+    {
+      "level": 680,
+      "exp": 9505938,
+      "earnEp": 2
+    },
+    {
+      "level": 681,
+      "exp": 9536181,
+      "earnEp": 1
+    },
+    {
+      "level": 682,
+      "exp": 9566433,
+      "earnEp": 1
+    },
+    {
+      "level": 683,
+      "exp": 9596693,
+      "earnEp": 1
+    },
+    {
+      "level": 684,
+      "exp": 9626961,
+      "earnEp": 1
+    },
+    {
+      "level": 685,
+      "exp": 9657238,
+      "earnEp": 1
+    },
+    {
+      "level": 686,
+      "exp": 9687523,
+      "earnEp": 1
+    },
+    {
+      "level": 687,
+      "exp": 9717816,
+      "earnEp": 1
+    },
+    {
+      "level": 688,
+      "exp": 9748117,
+      "earnEp": 1
+    },
+    {
+      "level": 689,
+      "exp": 9778427,
+      "earnEp": 1
+    },
+    {
+      "level": 690,
+      "exp": 9808745,
+      "earnEp": 2
+    },
+    {
+      "level": 691,
+      "exp": 9839071,
+      "earnEp": 1
+    },
+    {
+      "level": 692,
+      "exp": 9869405,
+      "earnEp": 1
+    },
+    {
+      "level": 693,
+      "exp": 9899748,
+      "earnEp": 1
+    },
+    {
+      "level": 694,
+      "exp": 9930099,
+      "earnEp": 1
+    },
+    {
+      "level": 695,
+      "exp": 9960458,
+      "earnEp": 1
+    },
+    {
+      "level": 696,
+      "exp": 9990825,
+      "earnEp": 1
+    },
+    {
+      "level": 697,
+      "exp": 10021200,
+      "earnEp": 1
+    },
+    {
+      "level": 698,
+      "exp": 10051584,
+      "earnEp": 1
+    },
+    {
+      "level": 699,
+      "exp": 10081976,
+      "earnEp": 1
+    },
+    {
+      "level": 700,
+      "exp": 10112376,
+      "earnEp": 4
+    },
+    {
+      "level": 701,
+      "exp": 10142784,
+      "earnEp": 1
+    },
+    {
+      "level": 702,
+      "exp": 10173200,
+      "earnEp": 1
+    },
+    {
+      "level": 703,
+      "exp": 10203624,
+      "earnEp": 1
+    },
+    {
+      "level": 704,
+      "exp": 10234056,
+      "earnEp": 1
+    },
+    {
+      "level": 705,
+      "exp": 10264496,
+      "earnEp": 1
+    },
+    {
+      "level": 706,
+      "exp": 10294945,
+      "earnEp": 1
+    },
+    {
+      "level": 707,
+      "exp": 10325402,
+      "earnEp": 1
+    },
+    {
+      "level": 708,
+      "exp": 10355867,
+      "earnEp": 1
+    },
+    {
+      "level": 709,
+      "exp": 10386340,
+      "earnEp": 1
+    },
+    {
+      "level": 710,
+      "exp": 10416821,
+      "earnEp": 2
+    },
+    {
+      "level": 711,
+      "exp": 10447310,
+      "earnEp": 1
+    },
+    {
+      "level": 712,
+      "exp": 10477807,
+      "earnEp": 1
+    },
+    {
+      "level": 713,
+      "exp": 10508312,
+      "earnEp": 1
+    },
+    {
+      "level": 714,
+      "exp": 10538825,
+      "earnEp": 1
+    },
+    {
+      "level": 715,
+      "exp": 10569346,
+      "earnEp": 1
+    },
+    {
+      "level": 716,
+      "exp": 10599875,
+      "earnEp": 1
+    },
+    {
+      "level": 717,
+      "exp": 10630412,
+      "earnEp": 1
+    },
+    {
+      "level": 718,
+      "exp": 10660957,
+      "earnEp": 1
+    },
+    {
+      "level": 719,
+      "exp": 10691510,
+      "earnEp": 1
+    },
+    {
+      "level": 720,
+      "exp": 10722071,
+      "earnEp": 2
+    },
+    {
+      "level": 721,
+      "exp": 10752640,
+      "earnEp": 1
+    },
+    {
+      "level": 722,
+      "exp": 10783217,
+      "earnEp": 1
+    },
+    {
+      "level": 723,
+      "exp": 10815841,
+      "earnEp": 1
+    },
+    {
+      "level": 724,
+      "exp": 10848473,
+      "earnEp": 1
+    },
+    {
+      "level": 725,
+      "exp": 10881114,
+      "earnEp": 1
+    },
+    {
+      "level": 726,
+      "exp": 10913763,
+      "earnEp": 1
+    },
+    {
+      "level": 727,
+      "exp": 10946420,
+      "earnEp": 1
+    },
+    {
+      "level": 728,
+      "exp": 10979086,
+      "earnEp": 1
+    },
+    {
+      "level": 729,
+      "exp": 11011760,
+      "earnEp": 1
+    },
+    {
+      "level": 730,
+      "exp": 11044443,
+      "earnEp": 2
+    },
+    {
+      "level": 731,
+      "exp": 11077134,
+      "earnEp": 1
+    },
+    {
+      "level": 732,
+      "exp": 11109833,
+      "earnEp": 1
+    },
+    {
+      "level": 733,
+      "exp": 11142541,
+      "earnEp": 1
+    },
+    {
+      "level": 734,
+      "exp": 11175257,
+      "earnEp": 1
+    },
+    {
+      "level": 735,
+      "exp": 11207982,
+      "earnEp": 1
+    },
+    {
+      "level": 736,
+      "exp": 11240715,
+      "earnEp": 1
+    },
+    {
+      "level": 737,
+      "exp": 11273456,
+      "earnEp": 1
+    },
+    {
+      "level": 738,
+      "exp": 11306206,
+      "earnEp": 1
+    },
+    {
+      "level": 739,
+      "exp": 11338964,
+      "earnEp": 1
+    },
+    {
+      "level": 740,
+      "exp": 11371730,
+      "earnEp": 2
+    },
+    {
+      "level": 741,
+      "exp": 11404505,
+      "earnEp": 1
+    },
+    {
+      "level": 742,
+      "exp": 11437288,
+      "earnEp": 1
+    },
+    {
+      "level": 743,
+      "exp": 11470079,
+      "earnEp": 1
+    },
+    {
+      "level": 744,
+      "exp": 11502878,
+      "earnEp": 1
+    },
+    {
+      "level": 745,
+      "exp": 11535686,
+      "earnEp": 1
+    },
+    {
+      "level": 746,
+      "exp": 11568502,
+      "earnEp": 1
+    },
+    {
+      "level": 747,
+      "exp": 11601326,
+      "earnEp": 1
+    },
+    {
+      "level": 748,
+      "exp": 11634158,
+      "earnEp": 1
+    },
+    {
+      "level": 749,
+      "exp": 11666999,
+      "earnEp": 1
+    },
+    {
+      "level": 750,
+      "exp": 11699848,
+      "earnEp": 3
+    },
+    {
+      "level": 751,
+      "exp": 11732705,
+      "earnEp": 1
+    },
+    {
+      "level": 752,
+      "exp": 11765570,
+      "earnEp": 1
+    },
+    {
+      "level": 753,
+      "exp": 11798443,
+      "earnEp": 1
+    },
+    {
+      "level": 754,
+      "exp": 11831325,
+      "earnEp": 1
+    },
+    {
+      "level": 755,
+      "exp": 11864215,
+      "earnEp": 1
+    },
+    {
+      "level": 756,
+      "exp": 11897113,
+      "earnEp": 1
+    },
+    {
+      "level": 757,
+      "exp": 11930019,
+      "earnEp": 1
+    },
+    {
+      "level": 758,
+      "exp": 11962933,
+      "earnEp": 1
+    },
+    {
+      "level": 759,
+      "exp": 11995855,
+      "earnEp": 1
+    },
+    {
+      "level": 760,
+      "exp": 12028786,
+      "earnEp": 2
+    },
+    {
+      "level": 761,
+      "exp": 12061725,
+      "earnEp": 1
+    },
+    {
+      "level": 762,
+      "exp": 12094672,
+      "earnEp": 1
+    },
+    {
+      "level": 763,
+      "exp": 12127627,
+      "earnEp": 1
+    },
+    {
+      "level": 764,
+      "exp": 12160590,
+      "earnEp": 1
+    },
+    {
+      "level": 765,
+      "exp": 12193561,
+      "earnEp": 1
+    },
+    {
+      "level": 766,
+      "exp": 12226540,
+      "earnEp": 1
+    },
+    {
+      "level": 767,
+      "exp": 12259527,
+      "earnEp": 1
+    },
+    {
+      "level": 768,
+      "exp": 12294584,
+      "earnEp": 1
+    },
+    {
+      "level": 769,
+      "exp": 12329650,
+      "earnEp": 1
+    },
+    {
+      "level": 770,
+      "exp": 12364725,
+      "earnEp": 2
+    },
+    {
+      "level": 771,
+      "exp": 12399808,
+      "earnEp": 1
+    },
+    {
+      "level": 772,
+      "exp": 12434900,
+      "earnEp": 1
+    },
+    {
+      "level": 773,
+      "exp": 12470000,
+      "earnEp": 1
+    },
+    {
+      "level": 774,
+      "exp": 12505109,
+      "earnEp": 1
+    },
+    {
+      "level": 775,
+      "exp": 12540226,
+      "earnEp": 1
+    },
+    {
+      "level": 776,
+      "exp": 12575352,
+      "earnEp": 1
+    },
+    {
+      "level": 777,
+      "exp": 12610486,
+      "earnEp": 1
+    },
+    {
+      "level": 778,
+      "exp": 12645629,
+      "earnEp": 1
+    },
+    {
+      "level": 779,
+      "exp": 12680780,
+      "earnEp": 1
+    },
+    {
+      "level": 780,
+      "exp": 12715940,
+      "earnEp": 2
+    },
+    {
+      "level": 781,
+      "exp": 12751108,
+      "earnEp": 1
+    },
+    {
+      "level": 782,
+      "exp": 12786284,
+      "earnEp": 1
+    },
+    {
+      "level": 783,
+      "exp": 12821469,
+      "earnEp": 1
+    },
+    {
+      "level": 784,
+      "exp": 12856662,
+      "earnEp": 1
+    },
+    {
+      "level": 785,
+      "exp": 12891864,
+      "earnEp": 1
+    },
+    {
+      "level": 786,
+      "exp": 12927074,
+      "earnEp": 1
+    },
+    {
+      "level": 787,
+      "exp": 12962293,
+      "earnEp": 1
+    },
+    {
+      "level": 788,
+      "exp": 12997520,
+      "earnEp": 1
+    },
+    {
+      "level": 789,
+      "exp": 13032755,
+      "earnEp": 1
+    },
+    {
+      "level": 790,
+      "exp": 13067999,
+      "earnEp": 2
+    },
+    {
+      "level": 791,
+      "exp": 13103251,
+      "earnEp": 1
+    },
+    {
+      "level": 792,
+      "exp": 13138511,
+      "earnEp": 1
+    },
+    {
+      "level": 793,
+      "exp": 13173780,
+      "earnEp": 1
+    },
+    {
+      "level": 794,
+      "exp": 13209057,
+      "earnEp": 1
+    },
+    {
+      "level": 795,
+      "exp": 13244342,
+      "earnEp": 1
+    },
+    {
+      "level": 796,
+      "exp": 13279636,
+      "earnEp": 1
+    },
+    {
+      "level": 797,
+      "exp": 13314938,
+      "earnEp": 1
+    },
+    {
+      "level": 798,
+      "exp": 13350248,
+      "earnEp": 1
+    },
+    {
+      "level": 799,
+      "exp": 13385567,
+      "earnEp": 1
+    },
+    {
+      "level": 800,
+      "exp": 13420894,
+      "earnEp": 4
+    },
+    {
+      "level": 801,
+      "exp": 13456229,
+      "earnEp": 1
+    },
+    {
+      "level": 802,
+      "exp": 13491572,
+      "earnEp": 1
+    },
+    {
+      "level": 803,
+      "exp": 13526924,
+      "earnEp": 1
+    },
+    {
+      "level": 804,
+      "exp": 13562284,
+      "earnEp": 1
+    },
+    {
+      "level": 805,
+      "exp": 13597652,
+      "earnEp": 1
+    },
+    {
+      "level": 806,
+      "exp": 13633028,
+      "earnEp": 1
+    },
+    {
+      "level": 807,
+      "exp": 13668413,
+      "earnEp": 1
+    },
+    {
+      "level": 808,
+      "exp": 13703806,
+      "earnEp": 1
+    },
+    {
+      "level": 809,
+      "exp": 13739207,
+      "earnEp": 1
+    },
+    {
+      "level": 810,
+      "exp": 13774616,
+      "earnEp": 2
+    },
+    {
+      "level": 811,
+      "exp": 13810033,
+      "earnEp": 1
+    },
+    {
+      "level": 812,
+      "exp": 13847543,
+      "earnEp": 1
+    },
+    {
+      "level": 813,
+      "exp": 13885061,
+      "earnEp": 1
+    },
+    {
+      "level": 814,
+      "exp": 13922588,
+      "earnEp": 1
+    },
+    {
+      "level": 815,
+      "exp": 13960123,
+      "earnEp": 1
+    },
+    {
+      "level": 816,
+      "exp": 13997667,
+      "earnEp": 1
+    },
+    {
+      "level": 817,
+      "exp": 14035220,
+      "earnEp": 1
+    },
+    {
+      "level": 818,
+      "exp": 14072781,
+      "earnEp": 1
+    },
+    {
+      "level": 819,
+      "exp": 14110351,
+      "earnEp": 1
+    },
+    {
+      "level": 820,
+      "exp": 14147930,
+      "earnEp": 2
+    },
+    {
+      "level": 821,
+      "exp": 14185517,
+      "earnEp": 1
+    },
+    {
+      "level": 822,
+      "exp": 14223113,
+      "earnEp": 1
+    },
+    {
+      "level": 823,
+      "exp": 14260717,
+      "earnEp": 1
+    },
+    {
+      "level": 824,
+      "exp": 14298330,
+      "earnEp": 1
+    },
+    {
+      "level": 825,
+      "exp": 14335951,
+      "earnEp": 1
+    },
+    {
+      "level": 826,
+      "exp": 14373581,
+      "earnEp": 1
+    },
+    {
+      "level": 827,
+      "exp": 14411220,
+      "earnEp": 1
+    },
+    {
+      "level": 828,
+      "exp": 14448867,
+      "earnEp": 1
+    },
+    {
+      "level": 829,
+      "exp": 14486523,
+      "earnEp": 1
+    },
+    {
+      "level": 830,
+      "exp": 14524187,
+      "earnEp": 2
+    },
+    {
+      "level": 831,
+      "exp": 14561860,
+      "earnEp": 1
+    },
+    {
+      "level": 832,
+      "exp": 14599541,
+      "earnEp": 1
+    },
+    {
+      "level": 833,
+      "exp": 14637231,
+      "earnEp": 1
+    },
+    {
+      "level": 834,
+      "exp": 14674929,
+      "earnEp": 1
+    },
+    {
+      "level": 835,
+      "exp": 14712636,
+      "earnEp": 1
+    },
+    {
+      "level": 836,
+      "exp": 14750351,
+      "earnEp": 1
+    },
+    {
+      "level": 837,
+      "exp": 14788074,
+      "earnEp": 1
+    },
+    {
+      "level": 838,
+      "exp": 14825806,
+      "earnEp": 1
+    },
+    {
+      "level": 839,
+      "exp": 14863546,
+      "earnEp": 1
+    },
+    {
+      "level": 840,
+      "exp": 14901295,
+      "earnEp": 2
+    },
+    {
+      "level": 841,
+      "exp": 14939052,
+      "earnEp": 1
+    },
+    {
+      "level": 842,
+      "exp": 14976818,
+      "earnEp": 1
+    },
+    {
+      "level": 843,
+      "exp": 15014592,
+      "earnEp": 1
+    },
+    {
+      "level": 844,
+      "exp": 15052374,
+      "earnEp": 1
+    },
+    {
+      "level": 845,
+      "exp": 15090165,
+      "earnEp": 1
+    },
+    {
+      "level": 846,
+      "exp": 15127964,
+      "earnEp": 1
+    },
+    {
+      "level": 847,
+      "exp": 15165772,
+      "earnEp": 1
+    },
+    {
+      "level": 848,
+      "exp": 15203588,
+      "earnEp": 1
+    },
+    {
+      "level": 849,
+      "exp": 15241412,
+      "earnEp": 1
+    },
+    {
+      "level": 850,
+      "exp": 15279245,
+      "earnEp": 3
+    },
+    {
+      "level": 851,
+      "exp": 15317086,
+      "earnEp": 1
+    },
+    {
+      "level": 852,
+      "exp": 15354935,
+      "earnEp": 1
+    },
+    {
+      "level": 853,
+      "exp": 15392793,
+      "earnEp": 1
+    },
+    {
+      "level": 854,
+      "exp": 15430659,
+      "earnEp": 1
+    },
+    {
+      "level": 855,
+      "exp": 15468533,
+      "earnEp": 1
+    },
+    {
+      "level": 856,
+      "exp": 15508520,
+      "earnEp": 1
+    },
+    {
+      "level": 857,
+      "exp": 15548516,
+      "earnEp": 1
+    },
+    {
+      "level": 858,
+      "exp": 15588521,
+      "earnEp": 1
+    },
+    {
+      "level": 859,
+      "exp": 15628534,
+      "earnEp": 1
+    },
+    {
+      "level": 860,
+      "exp": 15668556,
+      "earnEp": 2
+    },
+    {
+      "level": 861,
+      "exp": 15708587,
+      "earnEp": 1
+    },
+    {
+      "level": 862,
+      "exp": 15748627,
+      "earnEp": 1
+    },
+    {
+      "level": 863,
+      "exp": 15788675,
+      "earnEp": 1
+    },
+    {
+      "level": 864,
+      "exp": 15828732,
+      "earnEp": 1
+    },
+    {
+      "level": 865,
+      "exp": 15868798,
+      "earnEp": 1
+    },
+    {
+      "level": 866,
+      "exp": 15908872,
+      "earnEp": 1
+    },
+    {
+      "level": 867,
+      "exp": 15948955,
+      "earnEp": 1
+    },
+    {
+      "level": 868,
+      "exp": 15989047,
+      "earnEp": 1
+    },
+    {
+      "level": 869,
+      "exp": 16029147,
+      "earnEp": 1
+    },
+    {
+      "level": 870,
+      "exp": 16069256,
+      "earnEp": 2
+    },
+    {
+      "level": 871,
+      "exp": 16109374,
+      "earnEp": 1
+    },
+    {
+      "level": 872,
+      "exp": 16149500,
+      "earnEp": 1
+    },
+    {
+      "level": 873,
+      "exp": 16189635,
+      "earnEp": 1
+    },
+    {
+      "level": 874,
+      "exp": 16229779,
+      "earnEp": 1
+    },
+    {
+      "level": 875,
+      "exp": 16269931,
+      "earnEp": 1
+    },
+    {
+      "level": 876,
+      "exp": 16310092,
+      "earnEp": 1
+    },
+    {
+      "level": 877,
+      "exp": 16350261,
+      "earnEp": 1
+    },
+    {
+      "level": 878,
+      "exp": 16390439,
+      "earnEp": 1
+    },
+    {
+      "level": 879,
+      "exp": 16430626,
+      "earnEp": 1
+    },
+    {
+      "level": 880,
+      "exp": 16470821,
+      "earnEp": 2
+    },
+    {
+      "level": 881,
+      "exp": 16511025,
+      "earnEp": 1
+    },
+    {
+      "level": 882,
+      "exp": 16551237,
+      "earnEp": 1
+    },
+    {
+      "level": 883,
+      "exp": 16591458,
+      "earnEp": 1
+    },
+    {
+      "level": 884,
+      "exp": 16631687,
+      "earnEp": 1
+    },
+    {
+      "level": 885,
+      "exp": 16671925,
+      "earnEp": 1
+    },
+    {
+      "level": 886,
+      "exp": 16712171,
+      "earnEp": 1
+    },
+    {
+      "level": 887,
+      "exp": 16752426,
+      "earnEp": 1
+    },
+    {
+      "level": 888,
+      "exp": 16792689,
+      "earnEp": 1
+    },
+    {
+      "level": 889,
+      "exp": 16832961,
+      "earnEp": 1
+    },
+    {
+      "level": 890,
+      "exp": 16873241,
+      "earnEp": 2
+    },
+    {
+      "level": 891,
+      "exp": 16913530,
+      "earnEp": 1
+    },
+    {
+      "level": 892,
+      "exp": 16953827,
+      "earnEp": 1
+    },
+    {
+      "level": 893,
+      "exp": 16994133,
+      "earnEp": 1
+    },
+    {
+      "level": 894,
+      "exp": 17034447,
+      "earnEp": 1
+    },
+    {
+      "level": 895,
+      "exp": 17074770,
+      "earnEp": 1
+    },
+    {
+      "level": 896,
+      "exp": 17115101,
+      "earnEp": 1
+    },
+    {
+      "level": 897,
+      "exp": 17155441,
+      "earnEp": 1
+    },
+    {
+      "level": 898,
+      "exp": 17195789,
+      "earnEp": 1
+    },
+    {
+      "level": 899,
+      "exp": 17238269,
+      "earnEp": 1
+    },
+    {
+      "level": 900,
+      "exp": 17280758,
+      "earnEp": 4
+    },
+    {
+      "level": 901,
+      "exp": 17323256,
+      "earnEp": 1
+    },
+    {
+      "level": 902,
+      "exp": 17365763,
+      "earnEp": 1
+    },
+    {
+      "level": 903,
+      "exp": 17408279,
+      "earnEp": 1
+    },
+    {
+      "level": 904,
+      "exp": 17450804,
+      "earnEp": 1
+    },
+    {
+      "level": 905,
+      "exp": 17493337,
+      "earnEp": 1
+    },
+    {
+      "level": 906,
+      "exp": 17535879,
+      "earnEp": 1
+    },
+    {
+      "level": 907,
+      "exp": 17578430,
+      "earnEp": 1
+    },
+    {
+      "level": 908,
+      "exp": 17620990,
+      "earnEp": 1
+    },
+    {
+      "level": 909,
+      "exp": 17663559,
+      "earnEp": 1
+    },
+    {
+      "level": 910,
+      "exp": 17706136,
+      "earnEp": 2
+    },
+    {
+      "level": 911,
+      "exp": 17748722,
+      "earnEp": 1
+    },
+    {
+      "level": 912,
+      "exp": 17791317,
+      "earnEp": 1
+    },
+    {
+      "level": 913,
+      "exp": 17833921,
+      "earnEp": 1
+    },
+    {
+      "level": 914,
+      "exp": 17876533,
+      "earnEp": 1
+    },
+    {
+      "level": 915,
+      "exp": 17919154,
+      "earnEp": 1
+    },
+    {
+      "level": 916,
+      "exp": 17961784,
+      "earnEp": 1
+    },
+    {
+      "level": 917,
+      "exp": 18004423,
+      "earnEp": 1
+    },
+    {
+      "level": 918,
+      "exp": 18047070,
+      "earnEp": 1
+    },
+    {
+      "level": 919,
+      "exp": 18089726,
+      "earnEp": 1
+    },
+    {
+      "level": 920,
+      "exp": 18132391,
+      "earnEp": 2
+    },
+    {
+      "level": 921,
+      "exp": 18175064,
+      "earnEp": 1
+    },
+    {
+      "level": 922,
+      "exp": 18217746,
+      "earnEp": 1
+    },
+    {
+      "level": 923,
+      "exp": 18260437,
+      "earnEp": 1
+    },
+    {
+      "level": 924,
+      "exp": 18303137,
+      "earnEp": 1
+    },
+    {
+      "level": 925,
+      "exp": 18345845,
+      "earnEp": 1
+    },
+    {
+      "level": 926,
+      "exp": 18388562,
+      "earnEp": 1
+    },
+    {
+      "level": 927,
+      "exp": 18431287,
+      "earnEp": 1
+    },
+    {
+      "level": 928,
+      "exp": 18474021,
+      "earnEp": 1
+    },
+    {
+      "level": 929,
+      "exp": 18516764,
+      "earnEp": 1
+    },
+    {
+      "level": 930,
+      "exp": 18559515,
+      "earnEp": 2
+    },
+    {
+      "level": 931,
+      "exp": 18602275,
+      "earnEp": 1
+    },
+    {
+      "level": 932,
+      "exp": 18645044,
+      "earnEp": 1
+    },
+    {
+      "level": 933,
+      "exp": 18687821,
+      "earnEp": 1
+    },
+    {
+      "level": 934,
+      "exp": 18730607,
+      "earnEp": 1
+    },
+    {
+      "level": 935,
+      "exp": 18773401,
+      "earnEp": 1
+    },
+    {
+      "level": 936,
+      "exp": 18816204,
+      "earnEp": 1
+    },
+    {
+      "level": 937,
+      "exp": 18859016,
+      "earnEp": 1
+    },
+    {
+      "level": 938,
+      "exp": 18901836,
+      "earnEp": 1
+    },
+    {
+      "level": 939,
+      "exp": 18944665,
+      "earnEp": 1
+    },
+    {
+      "level": 940,
+      "exp": 18987502,
+      "earnEp": 2
+    },
+    {
+      "level": 941,
+      "exp": 19030348,
+      "earnEp": 1
+    },
+    {
+      "level": 942,
+      "exp": 19075345,
+      "earnEp": 1
+    },
+    {
+      "level": 943,
+      "exp": 19120351,
+      "earnEp": 1
+    },
+    {
+      "level": 944,
+      "exp": 19165366,
+      "earnEp": 1
+    },
+    {
+      "level": 945,
+      "exp": 19210390,
+      "earnEp": 1
+    },
+    {
+      "level": 946,
+      "exp": 19255423,
+      "earnEp": 1
+    },
+    {
+      "level": 947,
+      "exp": 19300465,
+      "earnEp": 1
+    },
+    {
+      "level": 948,
+      "exp": 19345516,
+      "earnEp": 1
+    },
+    {
+      "level": 949,
+      "exp": 19390576,
+      "earnEp": 1
+    },
+    {
+      "level": 950,
+      "exp": 19435644,
+      "earnEp": 3
+    },
+    {
+      "level": 951,
+      "exp": 19480721,
+      "earnEp": 1
+    },
+    {
+      "level": 952,
+      "exp": 19525807,
+      "earnEp": 1
+    },
+    {
+      "level": 953,
+      "exp": 19570902,
+      "earnEp": 1
+    },
+    {
+      "level": 954,
+      "exp": 19616006,
+      "earnEp": 1
+    },
+    {
+      "level": 955,
+      "exp": 19661119,
+      "earnEp": 1
+    },
+    {
+      "level": 956,
+      "exp": 19706241,
+      "earnEp": 1
+    },
+    {
+      "level": 957,
+      "exp": 19751372,
+      "earnEp": 1
+    },
+    {
+      "level": 958,
+      "exp": 19796511,
+      "earnEp": 1
+    },
+    {
+      "level": 959,
+      "exp": 19841659,
+      "earnEp": 1
+    },
+    {
+      "level": 960,
+      "exp": 19886816,
+      "earnEp": 2
+    },
+    {
+      "level": 961,
+      "exp": 19931982,
+      "earnEp": 1
+    },
+    {
+      "level": 962,
+      "exp": 19977157,
+      "earnEp": 1
+    },
+    {
+      "level": 963,
+      "exp": 20022340,
+      "earnEp": 1
+    },
+    {
+      "level": 964,
+      "exp": 20067532,
+      "earnEp": 1
+    },
+    {
+      "level": 965,
+      "exp": 20112733,
+      "earnEp": 1
+    },
+    {
+      "level": 966,
+      "exp": 20157943,
+      "earnEp": 1
+    },
+    {
+      "level": 967,
+      "exp": 20203162,
+      "earnEp": 1
+    },
+    {
+      "level": 968,
+      "exp": 20248389,
+      "earnEp": 1
+    },
+    {
+      "level": 969,
+      "exp": 20293625,
+      "earnEp": 1
+    },
+    {
+      "level": 970,
+      "exp": 20338870,
+      "earnEp": 2
+    },
+    {
+      "level": 971,
+      "exp": 20384124,
+      "earnEp": 1
+    },
+    {
+      "level": 972,
+      "exp": 20429386,
+      "earnEp": 1
+    },
+    {
+      "level": 973,
+      "exp": 20474657,
+      "earnEp": 1
+    },
+    {
+      "level": 974,
+      "exp": 20519937,
+      "earnEp": 1
+    },
+    {
+      "level": 975,
+      "exp": 20565225,
+      "earnEp": 1
+    },
+    {
+      "level": 976,
+      "exp": 20610522,
+      "earnEp": 1
+    },
+    {
+      "level": 977,
+      "exp": 20655828,
+      "earnEp": 1
+    },
+    {
+      "level": 978,
+      "exp": 20701143,
+      "earnEp": 1
+    },
+    {
+      "level": 979,
+      "exp": 20746466,
+      "earnEp": 1
+    },
+    {
+      "level": 980,
+      "exp": 20791798,
+      "earnEp": 2
+    },
+    {
+      "level": 981,
+      "exp": 20837139,
+      "earnEp": 1
+    },
+    {
+      "level": 982,
+      "exp": 20882488,
+      "earnEp": 1
+    },
+    {
+      "level": 983,
+      "exp": 20927846,
+      "earnEp": 1
+    },
+    {
+      "level": 984,
+      "exp": 20975373,
+      "earnEp": 1
+    },
+    {
+      "level": 985,
+      "exp": 21022909,
+      "earnEp": 1
+    },
+    {
+      "level": 986,
+      "exp": 21070454,
+      "earnEp": 1
+    },
+    {
+      "level": 987,
+      "exp": 21118008,
+      "earnEp": 1
+    },
+    {
+      "level": 988,
+      "exp": 21165571,
+      "earnEp": 1
+    },
+    {
+      "level": 989,
+      "exp": 21213143,
+      "earnEp": 1
+    },
+    {
+      "level": 990,
+      "exp": 21260724,
+      "earnEp": 2
+    },
+    {
+      "level": 991,
+      "exp": 21308314,
+      "earnEp": 1
+    },
+    {
+      "level": 992,
+      "exp": 21355913,
+      "earnEp": 1
+    },
+    {
+      "level": 993,
+      "exp": 21403521,
+      "earnEp": 1
+    },
+    {
+      "level": 994,
+      "exp": 21451138,
+      "earnEp": 1
+    },
+    {
+      "level": 995,
+      "exp": 21498764,
+      "earnEp": 1
+    },
+    {
+      "level": 996,
+      "exp": 21546399,
+      "earnEp": 1
+    },
+    {
+      "level": 997,
+      "exp": 21594043,
+      "earnEp": 1
+    },
+    {
+      "level": 998,
+      "exp": 21641696,
+      "earnEp": 1
+    },
+    {
+      "level": 999,
+      "exp": 21689358,
+      "earnEp": 1
+    },
+    {
+      "level": 1000,
+      "exp": 21737029,
+      "earnEp": 4
+    }
+ ]

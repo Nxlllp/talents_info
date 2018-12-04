@@ -1,6 +1,6 @@
 {
 	"disableAutoUpdate": false,
 	"options": { "niceName": "<font color='#FDD017'>Talents</font>" },
-	"servers": ["https://raw.githubusercontent.com/Owyn/talents_info/master/"],
-	"supportUrl": "https://github.com/Owyn/talents_info/issues"
+	"servers": ["https://raw.githubusercontent.com/Nxlllp/talents_info/master/"],
+	"supportUrl": "https://github.com/Nxlllp/talents_info/issues"
 }

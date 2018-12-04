@@ -1,13 +1,7 @@
 {
-	"files": {
-		"README.md": "0566b1e777b943e6ff6647288e19e7de001199af1280a584189518efc2368c14",
-		"index.js": "b8317b9b348c34200f5f03805d7f698ef2adb40c56b5e073c629247af6c41cb0",
-		"module.json": "a74cd7cb7bb4f57ba267726fdb9c51f097aaf97ce0b2b217cbc1a92e89b5350c"
-	},
-	"defs": {
-		"C_REQUEST_CONTRACT": 1,
-		"S_CHANGE_EP_EXP_DAILY_LIMIT": 1,
-		"S_LOAD_EP_INFO": 1,
-		"S_PLAYER_CHANGE_EP": "raw"
-	}
+  "files": {
+    "EPEXP.json": "8b1d2fd1b541bf009c58633c8c76371d64142d460871d387f13b1e51d8bf31d9",
+    "index.js": "4dd46192247cea0dbdfb15f7dfd5599cfb39605c3e9c384e61bf70305db6e873",
+    "module.json": "52e6fd69bf058d32bc591d7d579345420e76920741ffa6b860e33ab2156dfeea"
+  }
 }
