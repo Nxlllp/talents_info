@@ -55,7 +55,7 @@ module.exports = function talentsinfo(mod) {
     {
         message += `(${scmod}% mod)`;
 	}	else	{
-        message += `(${dexp}/${sdcap()}) (Daily Cap), <font color="#FFF380">${sdcap()} - ${dexp}</font> EXP left for today uncapped)`;
+        message += `(${dexp}/${sdcap()}) (Daily Cap), <font color="#FFF380">${sdcap() - dexp}</font> EXP left for today uncapped)`;
     }
       command.message(message);
 		if (epexp = epexpp.filter(b => b.level === lvl)[0]) {
