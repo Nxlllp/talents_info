@@ -4,9 +4,9 @@ module.exports = function talentsinfo(mod) {
 	const command = mod.command || mod.require.command;
 	let warned = false;
 	let lvl = 0,
-		exp = 0,
-		dexp = 0,
-		dcap = 0;
+	exp = 0,
+	dexp = 0,
+	dcap = 0;
 
     // message on command
     command.add(['talent', 'talents', 'EP', '!EP'], msg);
@@ -32,12 +32,12 @@ module.exports = function talentsinfo(mod) {
 	});
 
 	mod.hook('S_PLAYER_CHANGE_EP', 1, event => {
-		gained = event.expDifference;
-		exp = event.exp;
-		lvl = event.level;
-		dexp = event.dailyExp;
-		dcap = event.dailyExpMax;
-		scmod = Math.round(event.tsRev * 100);
+		let gained = event.expDifference;
+		let exp = event.exp;
+		let lvl = event.level;
+		let dexp = event.dailyExp;
+		let dcap = event.dailyExpMax;
+		let scmod = Math.round(event.tsRev * 100);
 	if (gained)
 	{
 		if (dexp >= sdcap())
@@ -58,12 +58,16 @@ module.exports = function talentsinfo(mod) {
         message += `(${dexp}/${sdcap()}) (Daily Cap), <font color="#FFF380">${sdcap() - dexp}</font> EXP left for today uncapped)`;
     }
       command.message(message);
+	  let epexp;
+	  let epexp2;
+	  let epp;
+	  let epp2;
 		if (epexp = epexpp.filter(b => b.level === lvl)[0]) {
 		  epp = epexp.exp;
 		if (epexp2 = epexpp.filter(b => b.level === lvl -1)[0]) {
 		  epp2 = epexp2.exp;
 		  //mmm = exp;
-		 mmm = Math.round((Number(exp)-epp2)/(epp-epp2)*1000) / 10;
+		 let mmm = Math.round((Number(exp)-epp2)/(epp-epp2)*1000) / 10;
 			mod.command.message(`<font color="#FDD017"> EXP : </font><font color="#00FFFF">${exp} / ${epp} (${mmm}%)</font>`);
 		};};	  
 	  
